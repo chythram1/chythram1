@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hi! My name is **Chythra Malapati** and I’m currently a junior studying **Computer Science at Virginia Tech** 
+Hi! My name is **Chythra Malapati** and I’m currently a senior studying **Computer Science at Virginia Tech** 
 I’m passionate about using my technical skills to drive innovation and build solutions that positively impact the world 
 
 **Current Technical Interests:**  
